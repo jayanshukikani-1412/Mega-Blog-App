@@ -1,4 +1,4 @@
-import envConfig from "../Config/env_config";
+import envConfig from "../Config/envConfig";
 import { Client, ID, Databases, Storage, Query } from "appwrite";
 
 export class Service{
