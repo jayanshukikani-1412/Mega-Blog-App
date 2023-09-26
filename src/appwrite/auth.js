@@ -1,4 +1,4 @@
-import envConfig from "../Config/env_config"
+import envConfig from "../Config/envConfig"
 import { Client, Account, ID } from "appwrite"
 
 export class AuthService {
